@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MainDataBaseProject</string>
+    <!-- TODO: я ебал ваш жава код -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="operations">
+        <item>=</item>
+        <item>Больше</item>
+        <item>Меньше</item>
+
+    </string-array>
+</resources>
